@@ -1,2 +1,3 @@
-# course-data-sciense
-NC Course - Data Sciense
+# EXERCISES SOCKETS
+
+    - Exercises Sockets
